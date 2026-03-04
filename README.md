@@ -18,8 +18,7 @@ En la presente practica se hace uso del manejo de rutas con VueJS, se integra la
 
 ```sh
 git clone https://github.com/licandragon/rutas-web2.git
-cd rutas/
-npm install
+cd rutas-web2/
 ```
 
 ### 2. Instalar dependencias
